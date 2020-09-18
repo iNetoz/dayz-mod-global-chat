@@ -3,7 +3,7 @@ class SchanaModGlobalChatSettings {
     private static string PATH = DIR + "\\config.json";
     private static const int DEFAULT_SIZE = 20;
     private static const int DEFAULT_COLOR_DIRECT = 0xffffff; // white
-    private static const int DEFAULT_COLOR_GLOBAL = 0xffd54f; // amber 300
+    private static const int DEFAULT_COLOR_GLOBAL = 0xffffff; // amber 300
     private static const int DEFAULT_COLOR_SERVER = 0x4fc3f7; // light blue 300
     private static const int DEFAULT_COLOR_ALERT = 0xff8a65; // deep orange 300
 
